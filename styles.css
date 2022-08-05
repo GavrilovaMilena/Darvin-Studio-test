@@ -59,7 +59,7 @@ footer {
 }
 
 .name {
-  flex-direction: column;
+  display: flex;
 }
 
 .title {
