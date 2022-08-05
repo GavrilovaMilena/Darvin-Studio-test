@@ -15,18 +15,22 @@ header {
 
 p {
   margin: 0;
+  cursor: default;
 }
 
 h1 {
   margin: 0;
+  cursor: default;
 }
 
 h2 {
   margin: 0;
+  cursor: default;
 }
 
 h3 {
   margin: 0;
+  cursor: default;
 }
 
 span {
@@ -35,6 +39,7 @@ span {
 
 li {
   margin-bottom: 15px;
+  cursor: default;
 }
 
 li:last-child {
@@ -139,6 +144,7 @@ footer {
   padding: 15px 40px;
   border-radius: 6px;
   margin: auto 0;
+  cursor: pointer;
 }
 
 .button-consultation:hover {
@@ -179,6 +185,7 @@ footer {
   padding: 10px 100px;
   border-radius: 6px;
   margin-top: 10px;
+  cursor: pointer;
 }
 
 .button-consultation-two:hover {
